@@ -18,7 +18,7 @@ const Hero = () => {
         <div className="w-full sm:w-1/2 flex justify-center">
         <div className="relative w-[428px] h-[450px] sm:w-full sm:h-full">
           <Image
-            src="/image.svg"
+            src="/Image.svg"
             alt="model picture"
             layout="fill"
             objectFit="cover"
